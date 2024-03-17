@@ -24,7 +24,8 @@ src="https://img.shields.io/github/followers/Ameilla?logo=github&style=for-the-b
 
 # Badges 
 
-#[![An image of @dipayansarkar47's Holopin badges, which is a link to view their full Holopin profile]((https://www.holopin.io/@ameilla#))]
+[![Holopin Badges](https://www.holopin.io/@ameilla#)](https://www.holopin.io/@ameilla#)
+
 
 <b>My GitHub Stats</b>
 
