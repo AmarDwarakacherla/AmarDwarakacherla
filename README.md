@@ -3,10 +3,10 @@
 
 ## A Full-Stack Developer | MERN Stack
 
-- 🔭 I’m currently working on a MERN Project
+- 🔭 I’m currently working on a iOS App Development
 - 🌱 I’m interested to work on Web 3.0
 - 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology & Finance
+- 💬 Ask me about Technology & Gudiance to ace in this ai generation
 - 📫 How to reach me: amarkkr369@gmail.com
 - ⚡ Fun fact: I'm currently studying B.Tech Computer Science
 
