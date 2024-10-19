@@ -9,6 +9,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/Ameilla?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Ameilla)
 ![Profile views](https://komarev.com/ghpvc/?username=Ameilla&label=Profile%20views&color=0e75b6&style=flat)
 
+<!-- [![](https://visitcount.itsvg.in/api?id=Ameilla&icon=2&color=3)](https://visitcount.itsvg.in) -->
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amar-dwarakacherla/) 
 
@@ -52,11 +54,6 @@
     </a>
 </p>
 
-<p align="left">
-    <a href="http://www.github.com/Ameilla">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ameilla&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-    </a>
-</p>
 
 <!-- <p align="left">
     <a href="https://github.com/Ameilla" align="left">
@@ -65,29 +62,28 @@
 </p>  -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameilla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left">
+<!--<p align="left">
     <a href="http://www.github.com/Ameilla">
         <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ameilla&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&hide_title=true&hide_axis=true&hide_progress=true&theme=react-dark&repository=Ameilla/LeetCode" alt="GitHub Commits Graph" />
     </a>
-</p>
+</p> -->
 
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ameilla&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ameilla&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameilla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameilla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ameilla&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ameilla&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ameilla&icon=2&color=3)](https://visitcount.itsvg.in)
+
 
 
 <!-- <b>Top Repositories</b>
