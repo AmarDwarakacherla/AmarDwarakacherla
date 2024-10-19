@@ -3,12 +3,8 @@
 
 ## A Full-Stack Developer | MERN Stack
 
-- 🔭 I’m currently working on a iOS App Development
-- 🌱 I’m interested to work on Web 3.0
-- 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology & Gudiance to ace in this ai generation
-- 📫 How to reach me: amarkkr369@gmail.com
-- ⚡ Fun fact: I'm currently studying B.Tech Computer Science
+# 💫 About Me:
+🔭 I’m currently working on Java Backend Projects<br>👯  I’m looking to collaborate with people who are eager to learn new things!<br>🤝 I’m looking for help with<br>🌱 I’m interested to work on Web 3.0<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about Technology & Guidance to ace in this ai generation<br>📫 How to reach me: amarkkr369@gmail.com<br>⚡ Fun fact: I recently graduated with a B.E. in Computer Science!
 
 [![GitHub followers](https://img.shields.io/github/followers/Ameilla?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Ameilla)
 ![Profile views](https://komarev.com/ghpvc/?username=Ameilla&label=Profile%20views&color=0e75b6&style=flat)
