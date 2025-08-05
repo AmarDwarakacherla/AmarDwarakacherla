@@ -6,18 +6,19 @@
 # 💫 About Me:
 🔭 I’m currently working on Java Backend Projects<br>👯  I’m looking to collaborate with people who are eager to learn new things!<br>🤝 I’m looking for help with<br>🌱 I’m interested to work on Web 3.0<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about Technology & Guidance to ace in this ai generation<br>📫 How to reach me: amarkkr369@gmail.com<br>⚡ Fun fact: I recently graduated with a B.E. in Computer Science!
 
-[![GitHub followers](https://img.shields.io/github/followers/Ameilla?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Ameilla)
-![Profile views](https://komarev.com/ghpvc/?username=Ameilla&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/AmarDwarakacherla?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/AmarDwarakacherla)
+![Profile views](https://komarev.com/ghpvc/?username=AmarDwarakacherla&label=Profile%20views&color=0e75b6&style=flat)
 
-<!-- [![](https://visitcount.itsvg.in/api?id=Ameilla&icon=2&color=3)](https://visitcount.itsvg.in) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=AmarDwarakacherla&icon=2&color=3)](https://visitcount.itsvg.in) -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-dwarakacherla/) 
 <a href="https://linkedin.com/in/amar-dwarakacherla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 alt="amar-dwarakacherla" height="30" width="40" /></a>
 <a href="https://instagram.com/amardwarakacherla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amar-dwarakacherla" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amarkkr369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amarkkr369" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ameilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ameilla" height="30" width="40" /></a>
+<
+a href="https://www.hackerrank.com/amarkkr369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amarkkr369" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/AmarDwarakacherla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AmarDwarakacherla" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/amarkkr369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amarkkr369" height="30" width="40" /></a>
 </p>
 
@@ -50,44 +51,44 @@ alt="amar-dwarakacherla" height="30" width="40" /></a>
 <b>My GitHub Stats</b>
 
 <p align="left">
-    <a href="http://www.github.com/Ameilla">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ameilla&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ameilla's GitHub stats" />
+    <a href="http://www.github.com/AmarDwarakacherla">
+        <img src="https://github-readme-stats.vercel.app/api?username=AmarDwarakacherla&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AmarDwarakacherla's GitHub stats" />
     </a>
 </p>
 
 <p align="left">
-    <a href="http://www.github.com/Ameilla">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ameilla&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <a href="http://www.github.com/AmarDwarakacherla">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmarDwarakacherla&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
     </a>
 </p>
 
 
 <!-- <p align="left">
-    <a href="https://github.com/Ameilla" align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameilla&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <a href="https://github.com/AmarDwarakacherla" align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarDwarakacherla&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
     </a>
 </p>  -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameilla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarDwarakacherla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--<p align="left">
-    <a href="http://www.github.com/Ameilla">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ameilla&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&hide_title=true&hide_axis=true&hide_progress=true&theme=react-dark&repository=Ameilla/LeetCode" alt="GitHub Commits Graph" />
+    <a href="http://www.github.com/AmarDwarakacherla">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AmarDwarakacherla&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&hide_title=true&hide_axis=true&hide_progress=true&theme=react-dark&repository=AmarDwarakacherla/LeetCode" alt="GitHub Commits Graph" />
     </a>
 </p> -->
 
 
 <!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ameilla&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ameilla&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameilla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api?username=AmarDwarakacherla&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmarDwarakacherla&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarDwarakacherla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ameilla&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AmarDwarakacherla&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ameilla&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AmarDwarakacherla&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
@@ -96,11 +97,11 @@ alt="amar-dwarakacherla" height="30" width="40" /></a>
 <!-- <b>Top Repositories</b>
 
 <div width="100%" align="center">
-    <a href="https://github.com/Ameilla/Dipayan">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ameilla&repo=Dipayan&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <a href="https://github.com/AmarDwarakacherla/Dipayan">
+        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmarDwarakacherla&repo=Dipayan&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
-    <a href="https://github.com/Ameilla/DSA">
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ameilla&repo=Sandesh&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <a href="https://github.com/AmarDwarakacherla/DSA">
+        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmarDwarakacherla&repo=Sandesh&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
 </div> -->
 
